@@ -108,13 +108,7 @@
 
 ###
 
-<h3 align="left">🔥   My Snake :</h3>
 
-###
-
-<img src="https://raw.githubusercontent.com/javierConpec/javierConpec/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/javierConpec/count.svg?"  />
